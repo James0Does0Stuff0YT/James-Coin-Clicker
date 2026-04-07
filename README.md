@@ -20,3 +20,5 @@
 > I Added music and Discord Presence is working!(But music though let's not talk about how annoying that was to add!)
 > ## Alpha 0.7.1:
 > Removed Discord Rich Presence because it kept breaking the game when I was doing testing, and I made the win conditions 2,000 James Coins instead of 1,000!
+> ## Alpha 0.7.2:
+> I added a custom icon for the game!
