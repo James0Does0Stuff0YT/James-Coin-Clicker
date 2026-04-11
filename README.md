@@ -28,3 +28,5 @@
 > Just a little bit of code fixing!
 > ## V 1.5(Major Update):
 > Finally I have added a save function to the game!
+> ## V 1.5.1:
+> Just some bug fixes!
